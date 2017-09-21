@@ -81,6 +81,8 @@ probability_orf = probabilityORF(500, 120);
 % code should determine the lengths of dna sequence to test and implement
 % your decision. 
 
+% plotProbability(N_ORF, min_length, increment, max_length)
+
 plotProbability(120, 50, 10, 1000);
 
 
